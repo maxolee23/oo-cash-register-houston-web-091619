@@ -1,12 +1,12 @@
-class CashRegister 
+class CashRegister
 
   def initialize
     @discount = discount
-    @total = 0 
+    @total = 0
 
   end
 
 
 
 
-end 
+end
